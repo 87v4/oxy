@@ -91,11 +91,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 * [pypresence](https://github.com/qwertyquerty/pypresence) for Discord Rich Presence integration
 * [ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap) for modern themed Tkinter widgets
 
----
 
-## Contact
-
-For support or questions, open an issue or contact me at [your.email@example.com](mailto:your.email@example.com).
-
-If you want, I can also generate a `requirements.txt` or help you with other repo files!
-```
